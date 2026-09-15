@@ -1,3 +1,5 @@
+<img width="2048" height="66" alt="image" src="https://github.com/user-attachments/assets/60f7b628-2093-4df4-9a01-0f71346bb2b6" />
+
 <!--banner-->
   <img width="1920" height="1080" alt="GitHub Banner" src="https://github.com/user-attachments/assets/bc46ee7b-b0f6-4110-beb7-99b5d6410e18" />
 
@@ -40,3 +42,5 @@
   <!--snake game-->
   <img src="https://github.com/gianna236/gianna236/blob/output/ocean.svg"/>
 </p>
+
+<img width="2048" height="66" alt="image" src="https://github.com/user-attachments/assets/a8aaf5ac-bd4f-430a-898b-b3c5c445b757" />
