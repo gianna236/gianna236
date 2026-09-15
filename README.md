@@ -15,9 +15,9 @@
   <br>
 
   <!--widgets-->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gianna236&theme=holi&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gianna236&theme=holi&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gianna236&theme=holi&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gianna236&theme=holi&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7"/>
-  <img src ="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gianna236&theme=holi&utcOffset=0&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gianna236&theme=holi&animation=sequence&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gianna236&theme=holi&animation=sequence&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gianna236&theme=holi&animation=sequence&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gianna236&theme=holi&animation=sequence&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7"/>
+  <img src ="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gianna236&theme=holi&animation=sequence&utcOffset=0&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7"/>
 </p>
