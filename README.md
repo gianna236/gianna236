@@ -8,7 +8,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,py,react,vite,figma,nextjs,nodejs,docker,postman,fastapi,java,git,github,linux,mysql,vscode,windows&theme=light&perline=21" />
 
   <!--snake game-->
-  <img src="https://github.com/gianna236/gianna236/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/gianna236/gianna236/blob/output/ocean.svg"/>
 
   <!--widgets-->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gianna236&theme=holi&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7"/>
