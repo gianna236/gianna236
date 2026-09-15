@@ -2,14 +2,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&size=75&pause=5000&color=5499C7&background=E5F0FA&center=true&vCenter=true&random=true&width=1920&height=125&lines=welcome+to+my+account+%3AD)](https://git.io/typing-svg)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gianna236&theme=holi&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gianna236&theme=holi&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gianna236&theme=holi&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gianna236&theme=holi&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gianna236&theme=holi&utcOffset=0&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7)
-
 <p align="center">
+  <!--skills-->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,py,react,vite,figma,nextjs,nodejs,docker,postman,fastapi,java,git,github,linux,mysql,vscode,windows&theme=light&perline=21" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,py,react,vite,figma,nextjs,nodejs,docker,postman,fastapi,java,git,github,linux,mysql,vscode,windows&theme=light&perline=21" />
+
+  <!--snake game-->
+  <img src="https://github.com/gianna236/gianna236/blob/output/github-contribution-grid-snake.svg"/>
+
+  <!--widgets-->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gianna236&theme=holi&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gianna236&theme=holi&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gianna236&theme=holi&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gianna236&theme=holi&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7"/>
+  <img src ="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gianna236&theme=holi&utcOffset=0&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7"/>
 </p>
