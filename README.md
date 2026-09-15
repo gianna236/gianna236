@@ -40,7 +40,7 @@
 
 <p align="center">
   <!--contributions graph-->
-  <img src="https://github.com/gianna236/gianna236/blob/output/profile-customize.svg"/>
+  <img src="https://github.com/gianna236/gianna236/profile-3d-contrib/profile-customize.svg"/>
 </p>
 
 <img width="2048" height="66" alt="image" src="https://github.com/user-attachments/assets/a8aaf5ac-bd4f-430a-898b-b3c5c445b757" />
