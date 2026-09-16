@@ -17,7 +17,7 @@
 <p align="center">
   <!--skills-->
   <!--html5,css3,javascript,typescript,tailwindcss,python,react,vite,figma,canva,nextjs,nodejs,mysql,docker,postman,fastapi,java,git,github,linux,windows-->
-  <img src="https://www.readmecodegen.com/api/social-icon?name=html5%2Ccss3%2Cjavascript%2Ctailwindcss%2Cpython%2Creact%2Cvite%2Cfigma%2Ccanva%2Cnextjs%2Cnodejs%2Cmysql%2Cdocker%2Cpostman%2Cfastapi%2Cjava%2Cgit%2Cgithub%2Clinux%2Cwindows&size=64&bg=%23ffffff&theme=dark&color=%238fc9ff" alt="html5-css3-javascript-tailwindcss-python-react-vite-figma-canva-nextjs-nodejs-mysql-docker-postman-fastapi-java-git-github-linux-windows" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=html5%2Ccss3%2Cjavascript%2Ctailwindcss%2Cpython%2Creact%2Cvite%2Cfigma%2Ccanva%2Cnextjs%2Cnodejs%2Cmysql%2Cdocker%2Cpostman%2Cfastapi%2Cjava%2Cgit%2Cgithub%2Clinux%2Cwindows&bg=%23ffffff&color=%235499c7" alt="html5-css3-javascript-tailwindcss-python-react-vite-figma-canva-nextjs-nodejs-mysql-docker-postman-fastapi-java-git-github-linux-windows" />
 
   <!--widgets-->
   <table><thead>
